@@ -1,4 +1,4 @@
-![Disney Logo](https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg))
+![Disney Logo](https://upload.wikimedia.org/wikipedia/commons/2/22/Official_Disney.com_Logo.jpg)
 
 # Disney Application Portfolio
 
