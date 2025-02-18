@@ -2,7 +2,7 @@
 
 # Disney Application Portfolio
 
-Portfolio of Applications Developed for the Walt Disney Company. Applications are proprietary and private.
+Portfolio of Applications Developed for the Walt Disney Company.
 
 - [Disney CRE Report](https://github.com/danielvallecl/disney-applications/tree/main/disney-cre-report)
 
