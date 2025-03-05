@@ -2,7 +2,9 @@
 
 # Disney Application Portfolio
 
-Portfolio of Applications Developed for the Walt Disney Company.
+This repository contains applications developed for The Walt Disney Company.
+
+Note: These repositories are private and can be made available for review during programming interviews upon request.
 
 - [Disney CRE Report](https://github.com/danielvallecl/disney-applications/tree/main/disney-cre-report)
 
